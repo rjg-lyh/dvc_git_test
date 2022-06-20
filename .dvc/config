@@ -1,2 +1,10 @@
+[core]
+    remote = remote4
 ['remote "local_remote"']
     url = /home/yuhui/Project/Date_Repositary/
+['remote "remote2"']
+    url = /home/yuhui/Project/remote2
+['remote "remote6"']
+    url = /home/yuhui/Project/remote6
+['remote "remote4"']
+    url = /home/yuhui/Project/sitework
